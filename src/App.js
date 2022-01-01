@@ -13,21 +13,20 @@ import Navigation from './pages/menu/menu';
 class App extends Component {
   render() {
     
-    return (
-      <Home />      
-      //  <BrowserRouter>
-      //   <div>
-      //     <Navigation />
-      //       <Switch>
-      //        <Route path="/" component={Home} exact/>
-      //        {/* <Route path="/blog" component={Blog}/> */}
-      //        {/* <Route path="/blog/new_blog" component={NewBlog}/> */}
-      //        {/* <Route path="/about" component={About}/>
-      //        <Route path="/contact" component={Contact}/> 
-      //       <Route component={Error}/>*/}
-      //      </Switch>
-      //   </div> 
-      // </BrowserRouter>
+    return (      
+       <BrowserRouter>
+        <div>
+          <Navigation />
+            <Switch>
+             <Route path="/" component={Home} exact/>
+             {/* <Route path="/blog" component={Blog}/> */}
+             {/* <Route path="/blog/new_blog" component={NewBlog}/> */}
+             {/* <Route path="/about" component={About}/>
+             <Route path="/contact" component={Contact}/> 
+            <Route component={Error}/>*/}
+           </Switch>
+        </div> 
+      </BrowserRouter>
     );
   }
 }
