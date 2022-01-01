@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/NithyanandhanResume/static/css/main.25fec38c.chunk.css",
+    "main.js": "/NithyanandhanResume/static/js/main.7a0f6b80.chunk.js",
+    "main.js.map": "/NithyanandhanResume/static/js/main.7a0f6b80.chunk.js.map",
+    "runtime-main.js": "/NithyanandhanResume/static/js/runtime-main.0f1b7fea.js",
+    "runtime-main.js.map": "/NithyanandhanResume/static/js/runtime-main.0f1b7fea.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/NithyanandhanResume/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.044225e5.chunk.js": "/NithyanandhanResume/static/js/2.044225e5.chunk.js",
+    "static/js/2.044225e5.chunk.js.map": "/NithyanandhanResume/static/js/2.044225e5.chunk.js.map",
+    "static/js/3.5fcd089e.chunk.js": "/NithyanandhanResume/static/js/3.5fcd089e.chunk.js",
+    "static/js/3.5fcd089e.chunk.js.map": "/NithyanandhanResume/static/js/3.5fcd089e.chunk.js.map",
+    "index.html": "/NithyanandhanResume/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/NithyanandhanResume/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.25fec38c.chunk.css.map": "/NithyanandhanResume/static/css/main.25fec38c.chunk.css.map",
+    "static/js/2.044225e5.chunk.js.LICENSE.txt": "/NithyanandhanResume/static/js/2.044225e5.chunk.js.LICENSE.txt",
+    "static/media/NithyanandhanResume.3ef64c7b.pdf": "/NithyanandhanResume/static/media/NithyanandhanResume.3ef64c7b.pdf",
+    "static/media/career_banner.1e64be52.jpg": "/NithyanandhanResume/static/media/career_banner.1e64be52.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f1b7fea.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.044225e5.chunk.js",
+    "static/css/main.25fec38c.chunk.css",
+    "static/js/main.7a0f6b80.chunk.js"
+  ]
+}
